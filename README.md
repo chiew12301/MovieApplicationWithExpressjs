@@ -1,17 +1,6 @@
 
 # Challenge Statement
-
-Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications. ​
-
-With a myriad of HTTP utility methods and middleware at your disposal, creating a robust API is quick and easy. ​
-
-Express provides a thin layer of fundamental web application features, without obscuring Node.js features. 
-Build a REST API using ExpressJS to manage the movie details. The Node application should be able to read the data from a .json file as a REST resource.​
-
-​Add new a movie, fetch all the movies, fetch a specific movie by id, delete a movie and update the details of a specific movie. ​
-
-​Note: The REST resource can be hosted on the ​local machine on a specific port,​use the package json-server ​
-to perform the same. 
+MovieApplication that with Express.js
 
 # Tasks
 
